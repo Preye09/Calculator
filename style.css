@@ -1,0 +1,37 @@
+body{
+    margin: 150px;
+    margin-left: 280px;
+}
+
+#display{
+    padding: 30px;
+    margin: 30px;
+}
+
+.Calculator{
+    margin:  180px ;
+    padding: 40px;
+    margin-right: 180px;
+    
+}
+
+div{
+    background-color: #440e51;
+    width: 30%;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.classButtons{
+    padding: 5px;
+    width: 80%;
+}
+
+button{
+    background-color: rgb(141, 106, 126);
+    padding:5px;
+    width: 20%;
+    border-radius: 10px;
+}
+
+
